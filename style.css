@@ -1,0 +1,51 @@
+body{
+    background-color: #110e53;
+    font: normal 12pt Verdana;
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.464);
+
+}
+div#dados{
+    background-color: rgba(55, 41, 145, 0.275);
+    padding: 15px;
+    border-radius: 12px;
+}
+#btn{
+    background-color:#559e2d ;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    font: bold 14px verdana;
+    width: 470px;
+}
+#res{
+    background-color: white;
+    width: 450px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 7px;
+    height: 80px;
+}
+#rese{
+    padding: 20px;
+}
+
+   
+footer{
+    color: white ;
+    text-align: center;
+    font-style: italic;
+    
+}
