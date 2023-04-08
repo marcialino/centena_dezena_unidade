@@ -22,13 +22,17 @@ div#dados{
     padding: 15px;
     border-radius: 12px;
 }
+input#num{
+    padding: 8px
+}
 #btn{
     background-color:#559e2d ;
     color: white;
     padding: 10px;
-    border-radius: 3px;
+    
+    border-radius: 8px;
     font: bold 14px verdana;
-    width: 350px;
+    
 }
 #res{
     background-color: white;
